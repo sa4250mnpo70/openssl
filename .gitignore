@@ -9,3 +9,6 @@ lib
 *.out
 buildinf.h
 openssl
+Makefile
+opensslconf.h
+c_rehash
