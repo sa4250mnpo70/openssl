@@ -1,0 +1,11 @@
+*.o
+*.a
+*test
+/dest/
+*.pc
+lib
+*.time
+*.bak
+*.out
+buildinf.h
+openssl
