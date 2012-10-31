@@ -12,3 +12,4 @@ openssl
 Makefile
 opensslconf.h
 c_rehash
+.DS_Store
